@@ -1,0 +1,24 @@
+# Requirements
+
+## Database
+- MySQL Server 8.0 or later
+
+## SQL Client (Choose One)
+- MySQL Workbench (Recommended)
+- HeidiSQL
+- DBeaver
+- phpMyAdmin (Optional)
+
+## Sample Database
+- ClassicModels Database
+
+## Operating System
+- Windows, macOS, or Linux
+
+## Tested With
+- MySQL Server 8.4 LTS
+- MySQL Workbench 8.0+
+
+## Prerequisites
+- Basic understanding of SQL
+- Permission to create databases and stored procedures
